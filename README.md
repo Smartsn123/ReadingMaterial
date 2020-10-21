@@ -9,6 +9,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  NLP 
 
+### Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+   * https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
 ### MultiLingual Models
    * **A Look at MultiLingual Models**: https://peltarion.com/blog/data-science/a-deep-dive-into-multilingual-nlp-models
 
